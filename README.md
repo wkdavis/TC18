@@ -4,3 +4,6 @@ Worthington Industries’ steel products are highly customized to end-user speci
 William Davis, Stephen Bartos
 
 Davis, W. K., Bartos, S. A. (2018, October). *Using R and Tableau at Worthington Industries: Price optimization for high-mix, low-volume environments.* Tableau Conference 2018, New Orleans, LA.
+
+
+[Watch on YouTube](https://youtu.be/cnnrWoUSLEs)
