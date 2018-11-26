@@ -5,5 +5,6 @@ William Davis, Stephen Bartos
 
 Davis, W. K., Bartos, S. A. (2018, October). *Using R and Tableau at Worthington Industries: Price optimization for high-mix, low-volume environments.* Tableau Conference 2018, New Orleans, LA.
 
+[![DOI](https://zenodo.org/badge/154904727.svg)](https://zenodo.org/badge/latestdoi/154904727)
 
 [Watch on YouTube](https://youtu.be/cnnrWoUSLEs)
